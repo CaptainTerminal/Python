@@ -1,4 +1,0 @@
-Main Link for the Python programming language (Downloads):
-
-https://www.python.org/downloads/
-
