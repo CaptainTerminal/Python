@@ -4,4 +4,4 @@ https://www.python.org/downloads/
 
 Slides (Part 01):
 
-https://docs.google.com/presentation/d/1a6MTR1oiTqpEY9K7Yti3d9youqBWvmt8658zDenKGBA/edit?usp=sharing
+https://docs.google.com/presentation/d/1a6MTR1oiTqpEY9K7Yti3d9youqBWvmt8658zDenKGBA/edit#slide=id.g108a152343f_0_5
